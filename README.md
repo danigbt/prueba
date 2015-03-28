@@ -11,3 +11,5 @@ hh
 Ultima prueba fetch github
 
 Prueba de editar arichivos diferentes y/o agregar archivos
+
+Prueba pull y merge pc
